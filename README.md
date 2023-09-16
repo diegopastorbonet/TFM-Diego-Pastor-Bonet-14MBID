@@ -1,8 +1,11 @@
 # TFM-Diego-Pastor-Bonet-14MBID
 Repositorio asociado al código elaborado para el TFM de Big Data y Ciencia de Datos de Diego Pastor Bonet 
 
+
 Este código es una modificación del trabajo original que se encuentra en este repositorio:
+
 https://github.com/cloudtostreet/Sen1Floods11/blob/master/Train.ipynb
+
 
 Asociado al siguiente trabajo de los investigadores Bonafilia y otros en 2020:
 
